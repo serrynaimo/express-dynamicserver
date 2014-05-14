@@ -1,0 +1,28 @@
+{
+  "name": "Express dynamic server",
+  "description": "Dynamically load express servers based on URL",
+  "version": "0.1.0",
+  "homepage": "https://github.com/serrynaimo/express-dynamicserver",
+  "author": {
+    "name": "Thomas Gorissen",
+    "email": "mail@serrynaimo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/serrynaimo/express-dynamicserver.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.26",
+    "npm": "1.4.6",
+    "grunt": "0.4.4"
+  },
+  "keywords": ["express", "multi", "server", "vhost", "dynamic"]
+}

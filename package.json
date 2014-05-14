@@ -1,5 +1,5 @@
 {
-  "name": "Express dynamic server",
+  "name": "Express dynamicserver",
   "description": "Dynamically load express servers based on URL",
   "version": "0.1.0",
   "homepage": "https://github.com/serrynaimo/express-dynamicserver",
@@ -17,7 +17,10 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "dependencies": {},
+  "dependencies": {
+    "express": "4.2.0",
+    "express-vhost": "0.1.1"
+  },
   "devDependencies": {},
   "engines": {
     "node": "0.10.26",
